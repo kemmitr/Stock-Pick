@@ -1,3 +1,4 @@
+ #StockUp
  This was my first application. I had no idea what OOP was and did not undestand access modifiers. I have grown a lot over the years and 
  like to keep my older projects around to prove how much I have grown!
  
