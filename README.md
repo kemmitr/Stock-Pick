@@ -11,7 +11,7 @@ like to keep my older projects around to prove how much I have grown!</p>
 <h3 style="margin-left: 22px; text-align: center; margin-bottom: -20px">Tools and Technologies</h3>
 <ul style="text-align: center; list-style: none">
     <li>Programming Language: Java</li>
-    <li>Database: MySQLimg</li>
+    <li>Database: MySQL</li>
     <li>IDE: Eclipse</li>
 </ul>
 
