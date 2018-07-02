@@ -2,7 +2,7 @@
    <div style="text-align: center; color: red">
    <h1>JavaStock</h1>
    </div>
-<p style="text-align: justify; line-height: 150%">This was my first application. I had no idea what OOP was and did not understand access modifiers. I have grown a lot over the years and 
+<p style="text-align: justify; line-height: 150%">This was my first application, I believe I wrote it in 2013. I had no idea what OOP was and did not understand access modifiers. I have grown a lot over the years and 
 like to keep my older projects around to prove how much I have grown!</p>
  
 <h2 style="color: #0069B3; text-align: center">Application Overview</h2>
